@@ -12,8 +12,6 @@ Short HTML+CSS+Javascript Projects
 
 1. Expanding Cards
 
-   ![Expanding Cards](1.ExpandingCards/Animation.gif)
-
 2. Progress Steps
 
 3. Rotating Navigation
@@ -26,7 +24,17 @@ Short HTML+CSS+Javascript Projects
 
 7. Split Landing Page
 
-   ![Split Landing Page](7.SplitLandingPage/Animation.gif)
+8. Wave Animation for Forms
+
+9. Event Keycodes
+
+10. FAQ boxes
+
+11. Random Choice Picker
+
+12. Animated Navbar
+
+13. Incremental Counter
 
 ## License
 
