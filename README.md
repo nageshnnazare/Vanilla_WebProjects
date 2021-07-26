@@ -24,6 +24,7 @@ Short HTML+CSS+Javascript Projects
 
 7. Split Landing Page
 
+<<<<<<< HEAD
 8. Wave Animation for Forms
 
 9. Event Keycodes
@@ -35,6 +36,9 @@ Short HTML+CSS+Javascript Projects
 12. Animated Navbar
 
 13. Incremental Counter
+=======
+8. Form Wave Animation
+>>>>>>> 6dd746bdb8d1557be92b9c4fcc7258c843aa7bde
 
 ## License
 
