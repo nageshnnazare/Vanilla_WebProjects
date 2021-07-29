@@ -36,6 +36,20 @@ Short HTML+CSS+Javascript Projects
 
 13. Incremental Counter
 
+14. Drinking Water
+
+15. Movie App
+
+16. Background Slider
+
+17. Theme Clock
+
+18. Ripple Button
+
+19. Drag and Drop
+
+20. CSS Kinetic Loader
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
