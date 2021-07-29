@@ -24,7 +24,7 @@ function showMovies(movies) {
 	main.innerHTML = '';
 
 	movies.forEach((movie) => {
-		const { title, poster_path, vote_average } = movie;
+		const { title, poster_path, vote_average, overview } = movie;
 		const movieEl = document.createElement('div');
 		movieEl.classList.add('movie');
 		movieEl.innerHTML = `			
